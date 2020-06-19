@@ -55,7 +55,5 @@ from the moment the customer uploads the picture using web form to the final set
 - Which other components would you need to develop to integrate the model in production environment?
 - How would you manage CI/CD, logging, model updating? 
 
-Good luck with the assigment. In case you have any questions feel free to get in touch 
-with Pavle Kecman pavle.kecman@allianz.nl 
 
 
