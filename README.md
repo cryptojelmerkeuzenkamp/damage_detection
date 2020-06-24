@@ -59,7 +59,7 @@ $ jupyter notebook car_damage.ipynb
 ```
 
 ### Productionizing the model 
-![](architecture.png)
+![](sketch_production.png)
 
 
 
