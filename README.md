@@ -58,7 +58,7 @@ Run jupyter:
 $ jupyter notebook car_damage.ipynb
 ```
 
-### Productionizing the model 
+### Productize the model 
 ![](sketch_production.png)
 
 
